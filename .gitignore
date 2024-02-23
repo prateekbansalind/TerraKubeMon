@@ -1,0 +1,8 @@
+.git
+.terraform.*
+.terraform
+azurek8s
+main.destroy.tfplan
+main.tfplan
+terraform.tfstate
+terraform.tfstate.backup
